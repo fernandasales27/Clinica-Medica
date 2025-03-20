@@ -1,3 +1,6 @@
 [submodule "Clinica-Medica-Mobile"]
 	path = Clinica-Medica-Mobile
 	url = https://github.com/fernandasales27/Clinica-Medica-Mobile.git
+[submodule "Clinica-Medica-Web"]
+	path = Clinica-Medica-Web
+	url = https://github.com/fernandasales27/Clinica-Medica-Web.git
